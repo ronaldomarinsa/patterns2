@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Trilhando caminho com PHP
 
 ## Design Patterns
@@ -15,7 +14,7 @@ Agora que você criou um formulário que é montado dinâmicamente, vamos adicio
 
 - Crie 4 instancias deste form com os campos que você quiser e renderize. Implementaremos as classes “Validator” e “Request” em exemplos posteriores.
 
-Restrições & dicas
+Restrições e dicas:
 
 - Toda a implementação deve ser feita usando OO (sem uso de funções)
 - Não é permitido usar métodos e atributos estáticos
